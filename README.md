@@ -1,16 +1,16 @@
 # website-flow
 Les Fromages:
 
-1 - parmigiano
-2 -  Gouda
-3 - Le cheddar
-4 – Le Comté
-5 – Emmental rappé
-6 – Le Saint-Nectaire
-7 – Le Cantal
-8 – L’emmental
-9 – Le Reblochon
-10 –Le Roquefort
+1. parmigiano
+2.  Gouda
+3. Le cheddar
+4. Le Comté
+5. Emmental rappé
+6. Le Saint-Nectaire
+7. Le Cantal
+8. L’emmental
+9. Le Reblochon
+10. Le Roquefort
 
 Les pizzas:
 
