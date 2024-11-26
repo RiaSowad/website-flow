@@ -1,0 +1,24 @@
+Les Fromages:
+
+parmigiano
+Gouda
+Le cheddar
+Le Comté
+Emmental rappé
+Le Saint-Nectaire
+Le Cantal
+L’emmental
+Le Reblochon
+Le Roquefort
+Les pizzas:
+
+Pizza New-Yorkaise
+Pizza Sicilienne
+Pizza californienne
+Pizza napolitaine
+Pizza Chicago deep-dish
+Pizza de Détroit
+Pizza grecque
+Pizza italienne
+Pizza style Buffalo
+Pizza quatre fromages
